@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
   <title id="title">Orima Labs mark</title>
-  <rect width="48" height="48" rx="14" fill="#102428"/>
-  <circle cx="19" cy="24" r="10.5" fill="none" stroke="#7DDFD8" stroke-width="2.2"/>
-  <circle cx="29" cy="24" r="10.5" fill="none" stroke="#EF9B72" stroke-width="2.2"/>
-  <circle cx="24" cy="24" r="3" fill="#F7FBFA"/>
+  <rect width="48" height="48" rx="14" fill="#20232D"/>
+  <circle cx="19" cy="24" r="10.5" fill="none" stroke="#A9C7BA" stroke-width="2.2"/>
+  <circle cx="29" cy="24" r="10.5" fill="none" stroke="#EE7966" stroke-width="2.2"/>
+  <circle cx="24" cy="24" r="3" fill="#FBF8F2"/>
 </svg>
